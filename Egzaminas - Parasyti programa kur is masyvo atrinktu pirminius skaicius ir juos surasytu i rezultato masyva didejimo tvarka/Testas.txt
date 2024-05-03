@@ -1,0 +1,9 @@
+1) Sukuria nauja obijekta
+
+2) Int, short, long
+
+3) Naudojamas paveldeti savybems is kitu klasiu
+
+4) Pirmiausiai yra kvieciamas static metodas pavadinimu "main"
+
+5) Nieko neivyks, nes tai yra komentaras

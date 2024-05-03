@@ -1,0 +1,9 @@
+Parsisiusk Xampp, paleisk apache ir MySQL
+
+Atsiusk driver per "dev.mysql.com/downloads/connector/j/" --> Platform Independent
+
+NetBeans -> tools -> library -> new library "MySQL" -> Add jar folder -> pasirink "mysql-connector-j-8.3.0" faila
+
+Sukurk phpmy admin duombaze personsdb
+
+paleiks programa
