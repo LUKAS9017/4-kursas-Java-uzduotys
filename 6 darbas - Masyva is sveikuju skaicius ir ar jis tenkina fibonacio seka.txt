@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.Arrays;
 
 class HelloWorld {
@@ -18,4 +19,26 @@ class HelloWorld {
             System.out.println("Neseka");
         }
     }
+=======
+import java.util.Arrays;
+
+class HelloWorld {
+    public static void main(String[] args) {
+        int masyvas[] = {1, 1, 1, 2, 3, 5, 8};
+        boolean b = true;
+        for (int i = 2; i < masyvas.length; i++) {
+            if (masyvas[i] == masyvas[i-1] + masyvas[i-2]) {
+                b = true;
+            } else {
+                b = false;
+                break;
+            }
+        }
+        if (b == true) {
+            System.out.println("Seka");
+        } else {
+            System.out.println("Neseka");
+        }
+    }
+>>>>>>> b4f402f872774b8a9d79d7ddcfc50210861369ec
 }
