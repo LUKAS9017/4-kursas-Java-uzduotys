@@ -1,0 +1,4 @@
+1) Forma su vienu imputu i kuri vedame skaitmenis atskirtus kableliu, paspaudi mygtuka ir gauni minimum ir maksimum skaiciuka message boxe
+
+2) Atsitiktiniu skaiciu masyvas, surasti kiek kartu, kokia reiksme pasikartoja?
+	Mokytojas patare pirmiau susortinti masyva ir tada suskaiciuoti kiek kartu

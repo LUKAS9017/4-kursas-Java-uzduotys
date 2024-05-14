@@ -1,0 +1,26 @@
+Daznai reikia fixinti importus: right click -> Fix Imports
+
+Tabai:
+sout -> tab duoda System.out.println("");
+fore -> tab duoda for each cikla... pvz.: for (String string : stringList) {}
+fori -> tab duoda for i cikla... pvz.: for (int i = 0; i < args.length; i++) {}
+
+
+Klase - objekto brezinys
+
+Objektai - stalas: kojos, pavirsius
+
+Javoje klasiu pagalba aprasome viska
+
+Funkcinise/utils klases
+Strukturines klases, pojo
+	Ir just mixas
+
+
+"long" uzema dvigubai daugiau atminties ramuose, tai geriau pasirinkti atitinkamai
+
+"private" nuslepe (kad neitu naudoti jo kituose failuose tik???)
+
+
+Java yra hard typed language, reikia visur nurodyti tipus
+Listas yra konteineris bet jis nori zinoti kokio tipo duomenis bus talpinami. Tarp tu varneliu <nurodomi tipai> (Sauce: 5 darbas - Collection)
